@@ -2,16 +2,17 @@
 
 
 This coding challenge involves testing the parametrization of a
-convolution-based edge finder in images. For example, given the following image:
+convolution-based image edge finder. For example, given the following image:
 
-![][http://cs.brown.edu/courses/cs143/results/proj5/valayshah/BSDS/376001.jpg]
+![Original image](http://cs.brown.edu/courses/cs143/results/proj5/valayshah/BSDS/376001.jpg)
 
 The ideal output of an edge detector would be something like the image below.
 
-![][http://cs.brown.edu/courses/cs143/results/proj5/valayshah/BSDS/avg_ann1.png]
+![Ideal output](http://cs.brown.edu/courses/cs143/results/proj5/valayshah/BSDS/avg_ann1.png)
 
-The code in `main.cpp` gives an example of how to load an image, process the image with a
-given set of parameters, and to save the result as a separate image.
+The code in `main.cpp` gives an example of how to load an image, process the
+image with a given set of parameters, and to save the result as a separate
+image.
 
 Your job is to:
 
@@ -23,9 +24,9 @@ Your job is to:
    you decide to try; and
 
 3. Produce a graph that demonstrates something about how to choose a good set of
-   parameters for the test images in the [data/] directory.
+   parameters for the test images in the [data/][] directory.
 
-[data]: https://github.com/neurala-barnes/intern-challenge-2015/blob/master/data/
+[data/]: https://github.com/neurala-barnes/intern-challenge-2015/blob/master/data/
 
 You'll be evaluated on how thoroughly you can think through a nebulous problem
 (demonstrated by what you write and plot) as well as the quality of the code you
