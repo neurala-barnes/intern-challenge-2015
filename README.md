@@ -36,7 +36,7 @@ turn in.
 ## Other details
 
 Send me (Tim; barnes@neurala.com) a zip/tar file with your results (metric
-description, code, and plot(s)) by __Thursday, March 5__ at 6 PM. You'll hear
+description, code, and plot) by __Thursday, March 5__ at 6 PM. You'll hear
 back from me within 24 hours after that.
 
 You should plan to spend up to eight hours of work on the challenge.
